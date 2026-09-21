@@ -1,0 +1,46 @@
+style body{
+    background-color: black;
+}
+h1{ color: black;
+ background-color: orange;
+font-size:  40px;
+margin-left:10px;
+margin-right: 10px;
+}
+
+p{
+    font-size: 30px;
+    background-color: ;
+    color:rgb(107, 47, 56)
+    margin-left:10px;
+    margin-right: 10px;
+}
+h2{
+    font-size: 20px;
+    margin-left:10px;
+    margin-right: 10px;
+}
+
+h3{
+    font-size: 30px;
+    color: black;
+    background-color:orange;
+    margin-left:10px;
+    margin-right: 10px;
+}
+h4{
+    font-size: 20px;
+    margin-left:10px;
+    margin-right: 10px;
+}
+ol{
+    
+    font-size:40px ;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+ul{
+    font-size:20px ;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
